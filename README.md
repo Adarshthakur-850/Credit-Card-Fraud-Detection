@@ -227,15 +227,3 @@ Lovely Professional University
 
 GitHub Profile:
 [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
-
----
-
-If you want, I can also generate a **much more impressive GitHub README** with:
-
-* project badges
-* architecture diagram
-* fraud detection charts
-* model performance graphs
-* GIF demo
-
-which makes your repository look **much more professional for recruiters and ML roles**.

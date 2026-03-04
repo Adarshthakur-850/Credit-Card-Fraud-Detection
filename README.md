@@ -1,10 +1,3 @@
-Below is a **clean README.md** suitable for your repository
-**Credit Card Fraud Detection**. It is structured professionally for a machine learning project and will look good on your GitHub repository.
-
-You can create a file named **README.md** in your project root and paste this.
-
----
-
 # Credit Card Fraud Detection
 
 ## Overview
